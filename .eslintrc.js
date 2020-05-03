@@ -22,6 +22,10 @@ module.exports = {
   plugins: [
     'react',
   ],
+  ignorePatterns: [
+    'node_modules/',
+    'dist/',
+  ],
   rules: {
     indent: ['error', 2],
     'no-trailing-spaces': 'error',
