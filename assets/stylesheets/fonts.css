@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'NanumBarunpen';
+  font-style: normal;
+  font-weight: 400;
+  src: local(NanumBarunpen),
+    url("../fonts/NanumBarunpenR.eot"),
+    url("../fonts/NanumBarunpenR.woff") format("woff"),
+    url("../fonts/NanumBarunpenR.woff2") format("woff2");
+  unicode-range: U+f9ca-fa0b, U+ff03-ff05, U+ff07, U+ff0a-ff0b, U+ff0d-ff19, U+ff1b, U+ff1d, U+ff20-ff5b, U+ff5d, U+ffe0-ffe3, U+ffe5-ffe6;
+}
+
+@font-face {
+  font-family: 'NanumBarunpen';
+  font-style: normal;
+  font-weight: 700;
+  src: local(NanumBarunpen),
+    url("../fonts/NanumBarunpenB.eot")
+    url("../fonts/NanumBarunpenB.woff") format("woff"),
+    url("../fonts/NanumBarunpenB.woff2") format("woff2");
+  unicode-range: U+f9ca-fa0b, U+ff03-ff05, U+ff07, U+ff0a-ff0b, U+ff0d-ff19, U+ff1b, U+ff1d, U+ff20-ff5b, U+ff5d, U+ffe0-ffe3, U+ffe5-ffe6;
+}

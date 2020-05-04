@@ -14,6 +14,14 @@ module.exports = {
         exclude: /node_modules/,
         use: 'babel-loader',
       },
+      {
+        test: /\.css$/i,
+        use: 'css-loader',
+      },
+      {
+        test: /\.(woff(2)?|ttf|eot|svg)(\?v=\d+\.\d+\.\d+)?$/,
+        use: 'file-loader',
+      },
     ],
   },
   resolve: {
