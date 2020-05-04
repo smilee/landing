@@ -1,1 +1,1 @@
-# My Dozen VIP Landing Web Site
+# My Dozen VIP Landing Page
