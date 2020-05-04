@@ -1,7 +1,7 @@
 {
   "name": "mydozen-landing",
   "version": "0.0.1",
-  "description": "My Dozen VIP Landing Web Site",
+  "description": "My Dozen VIP Landing Page",
   "main": "src/index.js",
   "scripts": {
     "start": "webpack-dev-server",
